@@ -1,4 +1,5 @@
-# 📚 Sistema de Recomendação de Livros
+# Sistema de Recomendação de Livros
+
 ## Visão Geral do Projeto
 
 Este projeto tem como objetivo o desenvolvimento de um Sistema de Recomendação de Livros, utilizando técnicas de Análise de Dados, Exploração Visual e Machine Learning, com foco em K-Nearest Neighbors (KNN).
